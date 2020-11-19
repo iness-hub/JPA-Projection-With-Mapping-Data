@@ -1,0 +1,1 @@
+# JPA-Projection-With-Mapping-Data
